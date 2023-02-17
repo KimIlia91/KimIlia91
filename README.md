@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Ilia Kim
+- :mortar_board: I’m currently learning .NET, C#
+- :pray: I’m looking for help with my learning
+- :iphone: You can write to me on telegram
 <!--
 **KimIlia91/KimIlia91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
