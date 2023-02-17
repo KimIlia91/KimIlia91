@@ -2,6 +2,7 @@
 - :mortar_board: I’m currently learning .NET, C#
 - :pray: I’m looking for help with my learning
 - :iphone: You can send me a message on Telegram [@KorZh12](https://t.me/KorZh12) or on the mail indicated in the profile header
+- :muscle: I'm looking for traineeship offers to improve my .NET skills
 <!--
 **KimIlia91/KimIlia91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
