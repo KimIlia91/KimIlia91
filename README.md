@@ -1,3 +1,4 @@
-# Hi there, I'm [Ilia](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Kyrgyzstan KG
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilia Kim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Kyrgyztan KG</h3>
 
